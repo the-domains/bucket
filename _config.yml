@@ -1,0 +1,28 @@
+name: bucket
+favicon: null
+layout_spectrum: 0.41651569912210107
+typography_spectrum: 0.5865317154675722
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.022123702568933368
+  lightness: 0.8044069088064134
+  saturation: 0.2944954764097929
+  rhythmicContrast: 0.9594677228014916
+purpose: []
